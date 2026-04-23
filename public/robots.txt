@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://test-23-test.github.io/sweet-escape/sitemap.xml
