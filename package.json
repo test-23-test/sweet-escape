@@ -1,0 +1,43 @@
+{
+  "name": "sweetescape",
+  "version": "0.1.0",
+  "private": true,
+  "description": "SweetEscape — an immersive bakery in Chandigarh, built with Next.js 15, React Three Fiber, GSAP, and a hand-tuned Cafe x Artistic design system.",
+  "scripts": {
+    "dev": "next dev",
+    "prebuild": "node -e \"const n=require('net'),s=n.createServer();s.once('error',()=>{console.error('\\x1b[31mPort 3000 in use — stop the dev server before building\\x1b[0m');process.exit(1)});s.listen(3000,()=>s.close())\"",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource-variable/caveat": "^5.2.8",
+    "@fontsource-variable/dm-sans": "^5.2.8",
+    "@fontsource-variable/fraunces": "^5.2.9",
+    "@fontsource-variable/jetbrains-mono": "^5.2.8",
+    "@phosphor-icons/react": "^2.1.7",
+    "@react-three/drei": "^10.0.0",
+    "@react-three/fiber": "^9.0.0",
+    "clsx": "^2.1.1",
+    "gsap": "^3.13.0",
+    "lenis": "^1.1.20",
+    "motion": "^12.0.0",
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^2.6.0",
+    "three": "^0.171.0",
+    "zustand": "^5.0.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "^22.10.5",
+    "@types/react": "^19.0.7",
+    "@types/react-dom": "^19.0.3",
+    "@types/three": "^0.171.0",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.3"
+  }
+}

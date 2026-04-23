@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#1A0F08"/>
+  <rect x="40" y="40" width="1120" height="550" rx="24" fill="#2F1F14" stroke="#E8A345" stroke-width="2"/>
+  <text x="600" y="260" text-anchor="middle" font-family="Georgia,serif" font-size="72" font-weight="700" fill="#F7EFE2">SweetEscape</text>
+  <text x="600" y="330" text-anchor="middle" font-family="Georgia,serif" font-size="28" font-style="italic" fill="#E8A345">Artisanal Fusion Bakery</text>
+  <line x1="440" y1="370" x2="760" y2="370" stroke="#E8A345" stroke-width="1" opacity="0.5"/>
+  <text x="600" y="420" text-anchor="middle" font-family="sans-serif" font-size="20" letter-spacing="6" fill="#F7EFE2" opacity="0.7">SCO 114 · SECTOR 35-B · CHANDIGARH</text>
+  <text x="600" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#F7EFE2" opacity="0.5">Classical French technique · Indian-ingredient flourishes · Baked fresh at 5am</text>
+</svg>
